@@ -6,7 +6,7 @@ I enjoy building great software.
 
 [![Email dev.sonusah](https://img.shields.io/badge/Email-dev.sonusah@gmail.com-red?style=for-the-badge)](mailto:vikas.appdev@gmail.com)
 <br>
-[![Website sonusah-dev](https://img.shields.io/badge/Website-@sonusah-dev.github.io-yellow?style=for-the-badge)](https://sonusah-dev.github.io/)
+[![Website sonusah-dev](https://img.shields.io/badge/Website-@SonuSah-yellow?style=for-the-badge)](https://sonusah-dev.github.io/)
 [![Twitter SonuSah](https://img.shields.io/badge/Twitter-@SonuSah-9cf?style=for-the-badge)](https://twitter.com/SonuSah31313447)
 [![LinkedIn SonuSah](https://img.shields.io/badge/LinkedIn-@SonuSah-blue?style=for-the-badge)](https://www.linkedin.com/in/sonusah/)
 <br>
