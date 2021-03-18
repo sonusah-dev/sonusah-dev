@@ -2,7 +2,7 @@
 
 ## Nice meeting you, I'm [Sonu Sah!](https://github.com/sonusah-dev/)
 
-I enjoy building great software.
+I enjoy building great software and like to find solution for our environment and green earth.
 
 [![Email dev.sonusah](https://img.shields.io/badge/Email-dev.sonusah@gmail.com-red?style=for-the-badge)](mailto:vikas.appdev@gmail.com)
 <br>
